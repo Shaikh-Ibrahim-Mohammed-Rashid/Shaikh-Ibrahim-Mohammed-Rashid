@@ -16,75 +16,76 @@ I'm a passionate **Computer Engineering student** and **MERN Stack Developer** b
 ---
 
 ## **📊 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaikh-Ibrahim-Mohammed-Rashid&show_icons=true&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Ibrahim-Mohammed-Rashid&layout=compact&theme=dark)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Ibrahim-Mohammed-Rashid&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Ibrahim-Mohammed-Rashid&layout=compact&theme=dark&hide_border=true" />
+</div>  
 
 ---
 
 ## **🛠️ Skills**  
 
 ### **Web Development**  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js, RESTful APIs  
-- **Database:** MongoDB, Firebase  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js  
+- ⚙️ **Backend:** Node.js, Express.js, RESTful APIs  
+- 🗃️ **Database:** MongoDB, Firebase  
+- 🛠️ **Tools:** Git, GitHub, VS Code, Postman  
 
 ### **Mobile Development**  
-- Android Studio, Java  
+- 📱 **Android Studio, Java**  
 
 ### **Cybersecurity**  
-- Cyber Defense, Cyber Tools  
+- 🔒 **Cyber Defense, Cyber Tools**  
 
 ### **Certifications**  
-- PHP Essentials Bootcamp  
-- Python Programming Essentials Bootcamp  
-- Android Application Development  
-- Building Portfolio with HTML & CSS  
+- 🏅 **PHP Essentials Bootcamp**  
+- 🏅 **Python Programming Essentials Bootcamp**  
+- 🏅 **Android Application Development**  
+- 🏅 **Building Portfolio with HTML & CSS**  
 
 ---
 
 ## **🚀 Projects**  
 
 ### **1. E-commerce Portal (MERN Stack)**  
-- Developed a full-stack e-commerce platform with user authentication, product management, and Stripe payment gateway integration.  
+- 🛒 Developed a full-stack e-commerce platform with user authentication, product management, and Stripe payment gateway integration.  
 - **Tech Stack:** React, Node.js, MongoDB, Firebase, Stripe  
 - [GitHub Link](#)  
 
 ### **2. Netflix Clone (JavaScript)**  
-- Built a Netflix-inspired UI with dynamic content rendering and video playback functionality.  
+- 🎥 Built a Netflix-inspired UI with dynamic content rendering and video playback functionality.  
 - **Tech Stack:** HTML, CSS, JavaScript  
 - [GitHub Link](#)  
 
 ### **3. Android Task Manager App**  
-- Created a task management app with features like task creation, reminders, and notifications.  
+- 📝 Created a task management app with features like task creation, reminders, and notifications.  
 - **Tech Stack:** Java, Android Studio  
 - [GitHub Link](#)  
 
 ---
 
 ## **📚 Education**  
-- **Bachelor of Engineering (BE) in Computer Engineering**  
+- 🎓 **Bachelor of Engineering (BE) in Computer Engineering**  
   Mgm College Of Engineering & Technology | Sep 2023 - Sep 2026  
 
-- **Diploma in Computer Engineering**  
+- 🎓 **Diploma in Computer Engineering**  
   Anjuman-I-Islam's Abdul Razzaq Kalsekar Polytechnic | Jan 2020 - Jul 2023  
 
 ---
 
 ## **🏆 Achievements**  
-- Awarded the **Badge of Skill** for outstanding performance in E-commerce Portal Development.  
-- Participated in **Hack to Crack** submission round via Unstop.  
-- Developed clones of **Amazon, Netflix, and Music App** using JavaScript.  
+- 🏅 Awarded the **Badge of Skill** for outstanding performance in E-commerce Portal Development.  
+- 🏅 Participated in **Hack to Crack** submission round via Unstop.  
+- 🏅 Developed clones of **Amazon, Netflix, and Music App** using JavaScript.  
 
 ---
 
 ## **📫 Let's Connect!**  
 I'm always open to collaborating on exciting projects or discussing tech. Feel free to reach out!  
 
-- **Email:** ibrahimrashid990@gmail.com  
-- **LinkedIn:** [Shaikh Ibrahim Mohammed Rashid](https://www.linkedin.com/in/shaikhibrahim-mohammed-rashid)  
-- **GitHub:** [Shaikh-Ibrahim-Mohammed-Rashid](https://github.com/Shaikh-Ibrahim-Mohammed-Rashid)  
+- 📧 **Email:** ibrahimrashid990@gmail.com  
+- 🔗 **LinkedIn:** [Shaikh Ibrahim Mohammed Rashid](https://www.linkedin.com/in/shaikhibrahim-mohammed-rashid)  
+- 💻 **GitHub:** [Shaikh-Ibrahim-Mohammed-Rashid](https://github.com/Shaikh-Ibrahim-Mohammed-Rashid)  
 
 ---
 
