@@ -15,6 +15,13 @@ I'm a passionate **Computer Engineering student** and **MERN Stack Developer** b
 
 ---
 
+## **📊 GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaikh-Ibrahim-Mohammed-Rashid&show_icons=true&theme=dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Ibrahim-Mohammed-Rashid&layout=compact&theme=dark)  
+
+---
+
 ## **🛠️ Skills**  
 
 ### **Web Development**  
@@ -77,14 +84,7 @@ I'm always open to collaborating on exciting projects or discussing tech. Feel f
 
 - **Email:** ibrahimrashid990@gmail.com  
 - **LinkedIn:** [Shaikh Ibrahim Mohammed Rashid](https://www.linkedin.com/in/shaikhibrahim-mohammed-rashid)  
-- **GitHub:** [Your GitHub Profile](https://github.com/Shaikh-Ibrahim-Mohammed-Rashid)  
-
----
-
-## **📊 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaikh-Ibrahim-Mohammed-Rashid&show_icons=true&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Ibrahim-Mohammed-Rashid&layout=compact&theme=dark)  
+- **GitHub:** [Shaikh-Ibrahim-Mohammed-Rashid](https://github.com/Shaikh-Ibrahim-Mohammed-Rashid)  
 
 ---
 
