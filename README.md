@@ -19,6 +19,7 @@ I'm a passionate **Computer Engineering student** and **MERN Stack Developer** b
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Ibrahim-Mohammed-Rashid&show_icons=true&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Ibrahim-Mohammed-Rashid&layout=compact&theme=dark&hide_border=true" />
+<img height="" src="https://streak-stats.demolab.com?user=Shaikh-Ibrahim-Mohammed-Rashid&theme=dark&hide_border=true"/>
 </div>  
 
 ---
