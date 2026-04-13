@@ -318,15 +318,15 @@ Professional business website for an IT services company — showcasing services
 
 | 🏅 | Achievement | Event / Organizer |
 |:---:|:---|:---|
-| 🥇 1st Place | **NEXATHON 2025** — Poster Competition | AIKTC · Team Leader: AlgoVista |
-| 🥇 1st Rank | **Tech Maze** | GDG MGMCET · ManGalaM 2025 |
+| 🥇 1st Place | **NEXATHON 2025** | AIKTC · Team Leader: AlgoVista |
+| 🥇 1st Rank | **Tech Maze** | GDG MGMCET |
 | 🥇 1st Place | **Hackathon Bolt 1.0** | ManGalaM 2025 · Team: The DOMinators |
 | 🥇 1st Place | **Bug Fixing** | Tantra Utsav · Bunts Sangha Mumbai |
-| 🥇 1st Prize | **AlgoVista Nexathon** | DataNexus · S4DS |
 | 🥈 Silver Medal | **NPTEL Programming in Java** | NPTEL National Certification |
 | 🥈 2nd Place | **Clash of Codes 2.0** (Ace Track) | Terna Engineering College |
 | 🥈 2nd Rank | **Vision to Venture** | ManGalaM 2025 · Touchless Tech |
 | 🥉 3rd Prize | **Bug Hunter** | Tech Alegria 2024 |
+| 🥉 3rd Prize | **Project Competition** | TechExpo 3.0 |
 
 </div>
 
