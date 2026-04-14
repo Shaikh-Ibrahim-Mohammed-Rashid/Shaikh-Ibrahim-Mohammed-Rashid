@@ -4,7 +4,7 @@
 <!--                     HERO SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shaikh%20Ibrahim%20M.%20Rashid&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20AI%20Enthusiast%20%E2%80%94%20Cybersecurity%20Explorer&descSize=17&descAlignY=60&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shaikh%20Ibrahim%20MD.%20Rashid&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20AI%20Enthusiast%20%E2%80%94%20Cybersecurity%20Explorer&descSize=17&descAlignY=60&animation=twinkling" />
 
 <!-- Typing SVG Effect -->
 <a href="https://git.io/typing-svg">
